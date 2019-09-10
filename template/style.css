@@ -1,6 +1,7 @@
 div {
 	text-align: center;
 	overflow: hidden;
+	width: 500px;
 	border: 2px solid black;
-	width: 800px;
+	background-color: pink
 }
